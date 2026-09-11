@@ -114,8 +114,6 @@ const ProjectDetail = () => {
         <h2 className="detail-subtitle">Overview</h2>
         <div className="detail-text-content">
           <p>{project.background}</p>
-          <br />
-          <p>{project.conclusion}</p>
         </div>
       </div>
     </div>
