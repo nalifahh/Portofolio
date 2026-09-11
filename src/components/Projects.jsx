@@ -24,7 +24,7 @@ const Projects = () => {
       description: "Sistem backend multi-service yang skalabel dan efisien. Menonjolkan kemampuan software engineering, arsitektur sistem, dan deployment terotomatisasi.",
       tech: ["Go", "Microservices", "Docker", "Jenkins", "Kubernetes"],
       image: dealanImg,
-      githubLink: "https://github.com/najmialifah/Dealan",
+      githubLink: "https://github.com/nalifahh/Dealan",
       featured: false
     },
     {
@@ -33,7 +33,7 @@ const Projects = () => {
       description: "Aplikasi pemesanan makanan berbasis web untuk membantu UMKM. Dilengkapi dengan antarmuka yang intuitif untuk memudahkan pelanggan dan pemilik usaha dalam mengelola pesanan.",
       tech: ["React", "Figma", "REST API"],
       image: seblakImg,
-      githubLink: "https://github.com/najmialifah/seblak-web",
+      githubLink: "https://github.com/nalifahh/seblak-web",
       featured: false
     }
   ];

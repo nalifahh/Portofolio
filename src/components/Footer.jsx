@@ -19,7 +19,7 @@ const Footer = () => {
             <a href="mailto:nalifahhilmiya@gmail.com" className="social-link" aria-label="Email">
               <Mail size={24} />
             </a>
-            <a href="https://github.com/najmialifah" target="_blank" rel="noreferrer" className="social-link" aria-label="GitHub">
+            <a href="https://github.com/nalifahh" target="_blank" rel="noreferrer" className="social-link" aria-label="GitHub">
               <FaGithub size={24} />
             </a>
             <a href="https://linkedin.com/in/nalifah" target="_blank" rel="noreferrer" className="social-link" aria-label="LinkedIn">
